@@ -1,13 +1,13 @@
 # OpenHarmony-NOTE
 ## 环境配置
 
-### RK3568
+### 瑞芯微 RK3568
 
 - 在烧录大禹时，在接线没有问题的情况下遇到了通信问题，是 `MASKRAM` 模式，通过按住 `RESET` 和 `VOL+` 两个键再加电，然后依次松开 `RESET` 和 `VOL+` 进入 `LOADER` 模式即可解决问题。
 
   https://www.nutpi.net/thread?topicId=660
 
-### K1
+### 进迭时空 MUSE PI (K1)
 
 - 执行 `repo sync -j4 -c --fail-fast` 时出现以下错误：
 
