@@ -59,6 +59,6 @@
   [OHOS ERROR] Solution:	  no solution
   [OHOS ERROR]
   ```
-
+  权限问题，增加权限可解决。
   
 
